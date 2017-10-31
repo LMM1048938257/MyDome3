@@ -1,2 +1,5 @@
 新增了bbb.txt
 修改了bbb.txt
+add public void aa(){}
+add public String aaa();
+add public int aaa();
